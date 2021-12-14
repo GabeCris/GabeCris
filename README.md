@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá mundo!! Eu sou o Gabriel Crisanto
 
-<!--
-**GabeCris/GabeCris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" style="display: flex">
+  <a href="https://github.com/GabeCris">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=GabeCris&show_icons=true&theme=drakula&include_all_commits=true&count_private=true&hide=contribs&border_color=#00008B"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCris&layout=&langs_count=7&theme=drakula"/>
+</div>
+  
+ ### Linguagens que tenho conhecimento
 
-Here are some ideas to get you started:
+  <div style="display: flex"><br>
+    
+    
+  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+    C foi a linguagem que tive o primeiro contato, no qual desenvolvi minha lógica de programação, aprendi no meu primeiro ano de ensino técnico <br>
+    
+   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="center" alt="Rafa-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+
+    
+    
+
+
+</div>
