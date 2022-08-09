@@ -1,48 +1,44 @@
-<h1> 👋😄 Olá mundo, me chamo Gabriel Crisanto</h1>
-<p>Tenho o sonho e objetivo de um dia me tornar um desenvolvedor web</p>
-<hr>
+<h1 align='center'>
+  Olá, me chamo Gabriel Crisanto,
+  <br/>
+  Bem vindo ao meu GitHub!
+</h1>
 
-<div align="center" style="display: flex">
-  <a href="https://github.com/GabeCris">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=GabeCris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs&border_color=#00008B"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCris&layout=&langs_count=7&theme=dracula"/>
-</div><hr>
-  <h2>Minha trajetória com as linguagens</h2>
-  <div style="display: block"><br>
-    
-<!--   C   -->
-  <img align="center" alt="C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-    <strong><i>C</i></strong> foi a linguagem que tive o primeiro contato, no qual desenvolvi minha lógica de programação, aprendi no meu primeiro ano de ensino técnico 
-    <br> <hr>
-<!--  JAVA    -->
-   <img align="center" alt="JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <strong><i>Java</i></strong> foi a linguagem que aprendi no segundo ano do meu ensino técnico, onde aprendi sobre orientação e objetos e a utilizar a linguagem para desenvolver software com interfaces
-    <br> <hr>
-    
-  <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> 
-  <strong><i>HTML</i></strong> estou aprendendo atualmente no terceiro ano e foi amor a primeira vista, afinal de contas sempre gostei da parte visual, e ver o código virando interface com tanta facilidade me deixou muito interessado
-  <br> <hr>
-    
-<!--  CSS    -->
-<img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <strong><i>CSS</i></strong> foi a cereja do bolo, pois sempre fui muito caprichoso, e poder adicionar estilos e fazer as coisas ficarem bonitas foi o que me fez apaixonar por front end
-    <br> <hr>
-<!--  JS      -->
-  <img align="center" alt="Java Script" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <strong><i>JavaScript</i></strong> é a linguagem que estou estudando atualmente, e a facilidade para desenvolver com ela me fascina, pois depois de ter experiências com linguagens mais "difíceis", o JS se torna muito mais agradável
-    <br> <hr>
+<p align='center'>
+  Desenvolvedor Front-End
+</p>
 
-   <img align="center" alt="Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-      <strong><i>Figma</i></strong> é a ferramenta que utilizo para potencializar meus projetos pessoais, desenvolvendo os layouts e aprendendo mais sobre técnicas de design 
-    <br> <hr>
+### 😄 Sobre mim:
 
+<p>
+  <em>
+    Tenho 20 anos, sou do Paraná e estou trilhando a jornada para me tornar um desenvolvedor.
+  </em>
+</p>
+
+- 🚀 Atualmente estou me formando Técnico em Informática.
+- 🏫 Instituto Federal do Paraná - Campus Paranaguá
+- 📫 Meu email: gabrecrisanto@gmail.com
+
+### ⚡ Tecnologias:
+
+Estas são algumas das tecnologias e ferramentas que trabalho/trabalhei:
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,sass,figma,c,java,flutter
+)](https://skillicons.dev)
+
+### 📈 Minhas Estatísticas
+
+| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=GabeCris&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCris&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact) |
+
+💬 Quer entrar em contato comigo?
+
+<div>
+  <a href="https://www.linkedin.com/in/gabriel-crisanto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5541984818428&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrecrisanto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/gabecris_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-  <h2>Entre em contato comigo </h2>
-  
-  <div> 
-  <a href = "mailto:gabrecrisanto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5541984818428" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/gabriel-crisanto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/GabeCris" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-  </div>
+<br>
