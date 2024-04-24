@@ -12,12 +12,12 @@
 
 <p>
   <em>
-    Tenho 20 anos, sou do Paraná e estou trilhando a jornada para me tornar um desenvolvedor.
+    Tenho 22 anos, sou do Paraná e estou trilhando a jornada mais fantástica da minha vida: desenvolvimento!
   </em>
 </p>
 
-- 🚀 Atualmente estou me formando Técnico em Informática.
-- 🏫 Instituto Federal do Paraná - Campus Paranaguá
+- 🚀 Atualmente sou formado Técnico em Informática e Desenvolvedor Front End na Agência Econverse.
+- 🏫 Instituto Federal do Paraná - Campus Paranaguá | Agência Econverse
 - 📫 Meu email: gabrecrisanto@gmail.com
 
 ### ⚡ Tecnologias:
